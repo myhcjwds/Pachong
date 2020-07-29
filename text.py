@@ -1,2 +1,2 @@
 import requests
-print("马航最帅")
+print("马航最帅啊")
